@@ -1,0 +1,35 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega32"</DEVICE>
+ <WORKING_DIR>c:\users\ninav\Documents\Atmel Studio\7.0\TrafficLightProject\TrafficLightProject\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\ninav\Documents\Atmel Studio\7.0\TrafficLightProject\TrafficLightProject\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m32def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\ninav\Documents\Atmel Studio\7.0\TrafficLightProject\TrafficLightProject\Debug\TrafficLightProject.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>TrafficLightProject.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>TrafficLightProject.map</FILE>
+  <FILE>TrafficLightProject.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>c:\users\ninav\Documents\Atmel Studio\7.0\TrafficLightProject\TrafficLightProject\main.asm</FILE><LINE>30</LINE></start>
+  <segment_table><FILE>c:\users\ninav\Documents\Atmel Studio\7.0\TrafficLightProject\TrafficLightProject\main.asm</FILE><LINE>23</LINE></segment_table>
+  <main_loop><FILE>c:\users\ninav\Documents\Atmel Studio\7.0\TrafficLightProject\TrafficLightProject\main.asm</FILE><LINE>45</LINE></main_loop>
+  <countdown><FILE>c:\users\ninav\Documents\Atmel Studio\7.0\TrafficLightProject\TrafficLightProject\main.asm</FILE><LINE>72</LINE></countdown>
+  <countdown_loop><FILE>c:\users\ninav\Documents\Atmel Studio\7.0\TrafficLightProject\TrafficLightProject\main.asm</FILE><LINE>73</LINE></countdown_loop>
+  <Delay_1s><FILE>c:\users\ninav\Documents\Atmel Studio\7.0\TrafficLightProject\TrafficLightProject\main.asm</FILE><LINE>91</LINE></Delay_1s>
+  <Delay1><FILE>c:\users\ninav\Documents\Atmel Studio\7.0\TrafficLightProject\TrafficLightProject\main.asm</FILE><LINE>93</LINE></Delay1>
+  <Delay2><FILE>c:\users\ninav\Documents\Atmel Studio\7.0\TrafficLightProject\TrafficLightProject\main.asm</FILE><LINE>95</LINE></Delay2>
+  <Delay3><FILE>c:\users\ninav\Documents\Atmel Studio\7.0\TrafficLightProject\TrafficLightProject\main.asm</FILE><LINE>97</LINE></Delay3>
+ </LABELS>
+</ASSEMBLER_INFO>
